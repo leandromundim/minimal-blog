@@ -12,4 +12,6 @@ layout: default
     <time>{{ page.date | date_to_string }}</time>
   </div>
   {{ content }}
+
+  {% include comments.html %}
 </div>

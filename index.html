@@ -8,7 +8,7 @@ layout: default
   </h1>
   <nav class="masthead-nav">
     {% for page in site.pages %}
-    <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
     {% endfor %}
   </nav>
 </header>

@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit placeat molestiae aut necessitatibus animi consequuntur veniam temporibus neque nemo explicabo asperiores repellendus, reiciendis hic rerum perferendis doloremque ex commodi vitae delectus recusandae perspiciatis? Quisquam voluptas doloremque, doloribus quo neque voluptatem quas amet voluptate, blanditiis vel itaque magnam enim aliquam dolor, soluta ducimus nemo aspernatur placeat earum debitis possimus ad? Natus quos eveniet, cupiditate eligendi sapiente nemo illum, error adipisci eos labore a cumque sequi similique odit ducimus, itaque porro, in voluptate voluptatem sint. Necessitatibus praesentium hic iste numquam unde consequatur sed natus, soluta nesciunt odit, quisquam error, quaerat doloribus illum?

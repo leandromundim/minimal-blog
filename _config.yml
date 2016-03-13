@@ -9,7 +9,7 @@
 title: Minimal
 email: blog@minimal.com
 description: "O Minimal Blog é um blog minimalista feito em Jekyll para aprender as maravilhas que ele tem."
-baseurl: "/jekyll-example" # the subpath of your site, e.g. /blog
+baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings

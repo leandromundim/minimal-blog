@@ -2,6 +2,8 @@
 
 {% if words < 360 %}
     {% assign time = 1 %}
+    {% assign minutesText = 'minute' %}
 {% else %}
     {% assign time = words | divided_by:180 %}
+    {% assign minutesText = 'minutes' %}
 {% endif %}

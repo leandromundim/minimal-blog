@@ -8,9 +8,11 @@
 # Site settings
 title: Minimal
 email: blog@minimal.com
-description: "O Minimal Blog é um blog minimalista feito em Jekyll para aprender as maravilhas que ele tem."
-baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
+baseurl: "/minimal-blog"
+url: "http://willianjusten.com.br"
+twitter_username: minimal_twitter
+github_username:  minimal_github
 
 # Build settings
 markdown: kramdown
